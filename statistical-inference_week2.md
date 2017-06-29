@@ -88,6 +88,7 @@ sum(dbinom(4:5, size=n, prob=p))
 Or alternatively we can do the math
 Binomial distribution formula: 
 C(n,x) * p^x * q^(n-x) = (n!/(x! (n-x)!)) * p^x * q^(n-x)
+![alt text](https://raw.githubusercontent.com/f-benoit/statistical-inference/master/figure/binomialprobabilityformula1.bmp)
 
 
 ```r
