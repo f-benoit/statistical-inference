@@ -88,8 +88,8 @@ sum(dbinom(4:5, size=n, prob=p))
 Or alternatively we can do the math
 Binomial distribution formula: 
 C(n,x) * p^x * q^(n-x) = (n!/(x! (n-x)!)) * p^x * q^(n-x)
-![alt text](https://raw.githubusercontent.com/f-benoit/statistical-inference/master/figure/binomialprobabilityformula1.bmp)
-
+![Binomial distribution formula](https://raw.githubusercontent.com/f-benoit/statistical-inference/master/figure/binomialprobabilityformula1.bmp)
+![Binomial distribution formula](https://github.com/f-benoit/statistical-inference/blob/master/figure/binomial-distribution.jpg)
 
 ```r
 n<-5   #number of time we flip the fair coin
